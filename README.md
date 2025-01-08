@@ -80,6 +80,15 @@ plt.show()
 - The **Tesla Stock Price Over Time** plot displays Tesla's stock price fluctuations.
 - The **GameStop Stock Price Over Time** plot illustrates GameStop's stock price changes.
 
+## Goal
+
+This project utilizes web scraping and the `yfinance` library to extract and visualize financial data for GameStop (GME) and Tesla (TSLA). It includes plotting historical stock prices and quarterly revenues using `matplotlib`, providing insights into market trends and financial performance.
+
+### Key Points
+- **Data Extraction**: Leverages `yfinance` for fetching historical stock data.
+- **Visualization**: Uses `matplotlib` to create clear and informative visualizations of stock prices and revenues.
+- **Financial Insights**: Helps in understanding the financial trends of GameStop and Tesla, aiding in strategic decision-making and market analysis.
+
 ## Conclusion
 This project provides a basic framework for extracting financial data using `yfinance` and visualizing it with `matplotlib`. You can expand this by adding more companies or metrics as needed.
 
